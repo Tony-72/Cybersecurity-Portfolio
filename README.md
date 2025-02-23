@@ -1,14 +1,12 @@
 # Hello, I'm Anthony (Tony) Hasty Jr.
 <a href="www.linkedin.com/in/anthony-hasty-jr-bb663679" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a proffesional Avionics/Systems Test Technican and Cybersecurity enthusiast aspiring to land my first Cybersecurity SOC Analyst job. I enjoy being innovative and using creative critical thinking to find, analyse, and address, constantly evolving cybersecurity threats. My goal is to continue advancing and expanding my skill set through diversified learning and relevant hands-on experience to better protect individual and organizations' privacy and data.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey into computer system security and system administration has led me to develop a passion for cybersecurity, and I am very eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

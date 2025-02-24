@@ -2,11 +2,15 @@
 <a href="www.linkedin.com/in/anthony-hasty-jr-bb663679" /></a>
 
 
-I am a proffesional Avionics/Systems Test Technican and Cybersecurity enthusiast aspiring to land my first Cybersecurity SOC Analyst job. I enjoy being innovative and using creative critical thinking to find, analyse, and address, constantly evolving cybersecurity threats. My goal is to continue advancing and expanding my skill set through diversified learning and relevant hands-on experience to better protect individual and organizations' privacy and data.
+I am a proffesional Avionics/Systems Test Technican and Cybersecurity enthusiast aspiring to land my first Cybersecurity SOC Analyst job. I enjoy being innovative and using creative critical thinking to find, analyse, and address, constantly evolving cybersecurity threats. I am CompTIA Security+CE certified with security clearance and recently completed the Google Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. 
+
+I am currently enrolled in the Google IT Support and expect completion by March 2025. The Security+, Google Cybersecurity Professional Certificate, and Google IT Support course work have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
+
+As of 2025, I am preparing to enroll in Western Governors University School of IT Cybersecurity and Information Assurance B.S. program.
 
 ## Objective
 
-My journey into computer system security and system administration has led me to develop a passion for cybersecurity, and I am very eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey into computer system security and system administration has led me to develop a passion for cybersecurity, and I am very eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. My goal is to continue advancing and expanding my skill set through diversified learning and relevant hands-on experience to better protect individual and organizations' privacy and data.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

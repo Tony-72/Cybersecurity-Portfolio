@@ -23,7 +23,8 @@ This project was a great learning experience for me as a cybersecurity beginner 
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Azure</b> 
+- <b>Microsoft Azure</b>
+- <b>Windows 10 Virtual Machine</b> 
 
 <h2>Program walk-through:</h2>
 
